@@ -1,0 +1,24 @@
+{
+  "name": "fixreadme",
+  "description": "Generates or updates README.md files with some specific sections we want to have.",
+  "version": "0.0.0",
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "bin": "fixreadme.js",
+  "bugs": {
+    "url": "https://github.com/henrikjoreteg/fixreadme/issues"
+  },
+  "dependencies": {
+    "tryit": "1.0.0"
+  },
+  "homepage": "https://github.com/henrikjoreteg/fixreadme",
+  "keywords": [
+    "readme",
+    "util",
+    "cli"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/henrikjoreteg/fixreadme"
+  }
+}
